@@ -1,0 +1,15 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Project capezio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veorirac2/Veorirac2.git"
+  },
+  "author": "Vladyslav Kuznetsov <vladl7268@gmail.com>",
+  "license": "MIT"
+} 
